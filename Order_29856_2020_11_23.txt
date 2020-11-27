@@ -1,0 +1,7 @@
+ORDER [29856], Date: 2020-11-23
+[1002] Grommets  	Price: 23.45 => RESTOCK: 30
+[1003] Wedges  	Price: 10.15 => RESTOCK: 35
+[1004] Wing Bats  	Price: 11.25 => RESTOCK: 39
+[1006] Wiggles  	Price: 12.34 => RESTOCK: 20
+[1011] Barge Bogs  	Price: 2.99 => RESTOCK: 15
+[1015] Iggy Orks  	Price: 49.95 => RESTOCK: 28

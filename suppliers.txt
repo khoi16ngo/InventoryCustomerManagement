@@ -1,0 +1,20 @@
+8001;Grommet Builders;Local;788 30th St., SE, Calgary;Fred;239-877-7881 
+8002;Pong Works;Local;749 Dufferin Blvd., SE, Calgary;Bart;229-494-2302
+8003;Wiley Inc.;Local;26 40th St., SE, Calgary;BillyBob;212-262-0506
+8004;Winork Manufacturing Inc.;Local;156 51st Ave., SE, Calgary;Marty;214-548-9102
+8005;Grab Bag Inc.;Local;138 42nd Ave., NE, Calgary;Monty;+1 208-585-8204
+8006;Paddy's Manufacturing;Local;311 McCall Way, NE, Calgary;Barney;303-631-5565
+8007;Smickles Industries;Local;966 Smed Lane, SE, Calgary;Lisa;754-240-2477
+8008;Thangs Inc.;Local;879 37th Ave., NE, Calgary;Thelma;917-442-3159
+8009;Flip Works Inc.;Local;472 Ogden Dale Rd., SE, Calgary;Rory;414-855-9712
+8010;Irkle Industries;Local;754 Sunridge Way, NE, Calgary;Irma;315-364-9799
+8011;Biff Builders;Local;690 19th St., NE, Calgary;Borjn;229-741-6716
+8012;Twinkles Inc.;Local;318 29th St.,NE, Calgary;Barkley;203-598-0720
+8013;Piddles Industries;Local;238 112th Ave., NE, Calgary;Parnell;509-931-5301
+8014;Tic Tac Manufacturing;Local;598 Palmer Rd., NE, Calgary;Teisha;380-901-6812
+8015;Knock Knock Inc.;Local;363 42nd Ave., NE, Calgary;Ned;319-667-9122
+8016;Corky Things Inc.;Local;35 McCall Way, NE, Calgary;Corrine;410-963-5096
+8017;E & O Industries;Local;883 44th St., SE, Calgary;Stan;213-536-1272
+8018;Fiddleys Makes Stuff Inc.;Local;350 27th St., NE, Calgary;Fredda;220-688-2847
+8019;Horks and Stuff Manufacturing;Local;997 42nd Ave., NE, Calgary;Harold;223-884-2835
+8020;Wings Works;Local;754 48th St., SE, Calgary;Wing;223-309-5517
